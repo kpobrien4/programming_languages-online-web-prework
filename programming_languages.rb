@@ -20,3 +20,5 @@ languages = {
     }
   }
 }
+
+reformat_languages(languages)
